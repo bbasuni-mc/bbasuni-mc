@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ben Basuni
+- 👀 I’m a Sales Engineer at Monte Carlo Data ! 
+- 🌱 I’m currently learning MC Software. 
+- 💞️ I’m looking to collaborate on anything data related.
+- 📫 Ping me on MC Slack ! 
